@@ -172,7 +172,7 @@ I'm currently living in New Zealand and sharing my daily life on YouTube: "[Vive
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="108" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasglockner2003&theme=tokyonight&layout=compact&custom_title=Technological&langs_count=9"
   />
 
