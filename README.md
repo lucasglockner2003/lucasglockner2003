@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Lucas Glöckner
+#  Lucas Glöckner
 
 **`Studying in progress`**
 
-Hi, I'm Lucas Glöckner, 20 years old, and I was born in Rio Grande do Sul, Brazil.
+Hi, I'm Lucas Glöckner, 22 years old, and I was born in Rio Grande do Sul, Brazil.
 I finished high school at IFRS with a technical degree in Electronics.
 At the moment, I'm studying through Alura to improve my skills.
 I'm currently living in New Zealand and sharing my daily life on YouTube: [Vivendo Fora](https://www.youtube.com/@VivendoForaa).
